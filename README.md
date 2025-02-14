@@ -1,5 +1,5 @@
 **Tableau_Projects-3: My Paper Account Receivable Dashboard Analytics**
-📊 What Our Dashboard Tracks:
+Key Features for My Paper Account Receivable Dashboard:
 1. Customer Payment History 💰
 Tracks monthly payments made by each customer.
 Identifies payment trends over time.
